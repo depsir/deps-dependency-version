@@ -1,6 +1,6 @@
 {
   "name": "deps-dependency-version",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dependend on deps-version directly as dependency",
   "main": "index.js",
   "scripts": {
