@@ -1,5 +1,5 @@
 import { version } from 'deps-version';
 
-export function dependency-version(){
+export function dependencyVersion(){
     return "dependency-version " + version();
 }

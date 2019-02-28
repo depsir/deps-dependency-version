@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/depsir/deps-dependency-version#readme",
   "dependencies": {
-    "deps-version": "^1.0.0"
+    "deps-version": "^1.0.1"
   }
 }
